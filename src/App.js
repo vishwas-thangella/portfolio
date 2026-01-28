@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 import './App.css';
-import Header from './components/Header';
 import Hero from './components/Hero';
 import Particle from './components/Particle';
 import AOS from 'aos';

@@ -29,7 +29,7 @@ const Project = (props) => {
                 </div>
             </motion.div>
             <motion.div className="projects-right flex justify-center items-center" initial={initial} whileInView={whileonScreen}>
-                <motion.img src={data.image} alt="project" className="rounded-xl object-cover" whileHover={{scale:1.2}}/>
+                <motion.img src={data.image} alt={data.name} className="rounded-xl object-cover" whileHover={{ scale: 1.2 }} />
             </motion.div>
         </div>
     );

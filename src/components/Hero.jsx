@@ -89,7 +89,7 @@ const Hero = () => {
                         <p className="leading-8" data-aos="fade-right"> " I'm Vishwas Thangella, a passionate Full Stack Developer and Mobile App Developer with a strong foundation in the MERN stack and React Native. Over the past few years, I've worked on a variety of freelance projects ranging from college websites and ecommerce platforms to mobile apps with integrated payment systems and automation features. I specialize in building responsive, scalable web and mobile applications using technologies like React, Node.js, MongoDB, Express, and React Native. I enjoy turning ideas into digital products that are not only functional but also user-friendly and visually appealing. My work includes developing platforms for startups and businesses in healthcare, education, travel, and legal sectors. I take pride in solving real-world problems through clean code, thoughtful design, and continuous learning. Currently, I'm looking to collaborate on innovative projects or join a forward-thinking team where I can contribute and grow. <span className="text-purple-500">Let’s build something impactful together! 🚀 </span>"</p>
                     </div>
                     <div className="flex items-center justify-center">
-                        <img src={Image} alt="my photo" className="rounded-xl w-auto h-92 object-cover grayscale hover:grayscale-0 hover:scale-105 transition duration-500 ease-in-out" data-aos="fade-left" />
+                        <img src={Image} alt="Vishwas Thangella" className="rounded-xl w-auto h-92 object-cover grayscale hover:grayscale-0 hover:scale-105 transition duration-500 ease-in-out" data-aos="fade-left" />
                     </div>
                 </div>
             </div>
