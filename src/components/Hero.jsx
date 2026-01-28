@@ -64,7 +64,7 @@ const Hero = () => {
                     <Button
                         title="Download CV"
                         icon="fa-solid fa-download"
-                        url="https://docs.google.com/document/d/1MoM-NxgWFfwO3oJ6Fd0pCYXTRDRUhKVl8Dp-WRb4PAg/edit?usp=sharing"
+                        url="https://drive.google.com/file/d/1FCFsAv9xAEVP3VM5L_WmHDMC-DbCOFNR/view?usp=sharing"
                     />
                 </div>
 
